@@ -1,4 +1,8 @@
 :root {
-    --bs-body-bg: #123e6b;
+    --bs-body-bg: #fff;
 }
 
+.navbar {
+    background-color: #123e6b;
+    list-style: none;
+}
